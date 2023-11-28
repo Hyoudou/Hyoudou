@@ -7,7 +7,7 @@
   
 - 💻 **Technologies and Languages**
   
-    🚀 Currently Studying systems development and JavaScript.
+    🚀 Currently Studying systems development.
 
 - 🚀 **What I'm Up To**
   
