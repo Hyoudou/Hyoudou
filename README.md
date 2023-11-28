@@ -15,6 +15,13 @@
 
 🚀 **Thank you for visiting my profile! Let's create something amazing together**! 🚀
 
+
+<div>
+
+<img align="right" alt="albedo" height="250" width="250" src="https://github.com/Hyoudou/Hyoudou/assets/152228763/12ea6012-aafb-4edd-9f2b-7cf8611c80dc">
+    
+</div>
+
 ##
 
 <div style="display: inline_block"><br>
@@ -22,6 +29,8 @@
   <img align="center" alt="Gabs-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+    
 </div>
 
 ##
