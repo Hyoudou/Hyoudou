@@ -1,16 +1,39 @@
-### Hi there 👋
+👋 Hello, I'm Gabriel!
+- **About Me**
 
-<!--
-**Hyoudou/Hyoudou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    👾 Passionate about games, anime enthusiast, and self-taught programmer.
+  
+- 🌍 **Location**: Brazil.
+  
+- 💻 **Technologies and Languages**
+  
+    🚀 Currently studying systems development and JavaScript.
 
-Here are some ideas to get you started:
+- 🎮 **Games**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🕹️ Favorite games: Minecraft, Stardew Valley, League of Legends and Valorant.
+  
+- 🌸 **Anime**
+
+    📺 Favorite animes: Fairy Tail, Highschool DxD, Goblin Slayer, Kaichou wa maid-sama, Overlord.
+  
+    😍 Favorite character: Hyoudou Issei, Natsu, Obito and Albedo.
+
+- 🚀 **What I'm Up To**
+  
+    🌱 Currently learning JavaScript and TypeScript.
+  
+- 📫 **How to Reach Me**
+  
+    💬 Talk to me about games, anime, or code!
+  
+    📧 [hyoudou.gabs@gmail.com].
+  
+    🐦 [@Gabs_Hyoudou].
+
+- 🤝 **Let's Connect**!
+
+    [Twitter](https://twitter.com/Gabs_Hyoudou)
+
+
+🚀 **Thank you for visiting my profile! Let's create something amazing together**! 🚀
